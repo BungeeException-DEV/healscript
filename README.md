@@ -1,3 +1,5 @@
+# The script are no longer in development and there will be no further changes!
+
 # healscript
 
 This is my first LUA Script.
